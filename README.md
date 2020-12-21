@@ -24,6 +24,6 @@ Big Sur 11.1
 
 Everything works 
 
-One minor ACPI errors (I dont even bother to fix it)
+One minor ACPI error (I dont even bother to fix it)
 
 Fill in PlatformInfo in config.plist
