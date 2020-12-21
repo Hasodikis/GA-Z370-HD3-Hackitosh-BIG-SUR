@@ -10,7 +10,7 @@ I5-8400 Coffee Lake
 
 iGPU
 
-NVME samsung 970 500bg
+NVME samsung 970 500gb
 
 WD SSD 250gb
 
