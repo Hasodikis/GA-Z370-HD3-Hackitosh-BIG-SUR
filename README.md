@@ -1,3 +1,9 @@
+#NOTE I don't have access to this computer, therefor this repo is archived
+
+
+
+
+
 # GA-Z370-HD3 Hackintosh BIG-SUR
 
 This is not guide.... just my repo of the EFI for Opencore... but feel free to use it, if it suits you..... 
