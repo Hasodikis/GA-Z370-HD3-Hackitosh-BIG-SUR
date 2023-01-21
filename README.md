@@ -1,4 +1,4 @@
-#NOTE I don't have access to this computer, therefor this repo is archived
+# NOTE I don't have access to this computer, therefor this repo is archived
 
 
 
